@@ -270,6 +270,8 @@ module.exports = async (Miku, m, commands, chatUpdate, store) => {
 
         budy != `${prefix}support` &&
 
+        budy != `${prefix}profile` &&
+
         budy != `${prefix}supportgc` &&
 
         budy != `${prefix}owner` &&
@@ -292,9 +294,9 @@ module.exports = async (Miku, m, commands, chatUpdate, store) => {
 
     // ------------------------ Character Configuration (Do not modify this part) ------------------------ //
 
-    let char = "0"; // default one
+    let char = "20"; // default one
 
-    let CharacterSelection = "0"; // user selected character
+    let CharacterSelection = "20"; // user selected character
 
     let character = await mkchar.findOne({
 
@@ -312,7 +314,7 @@ module.exports = async (Miku, m, commands, chatUpdate, store) => {
 
         id: "1",
 
-        seletedCharacter: "0",
+        seletedCharacter: "20",
 
       });
 
