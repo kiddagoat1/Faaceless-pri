@@ -18,7 +18,7 @@ module.exports = {
 
     m,
 
-    { args, text, prefix, isCreator, pushName, SUPPORTstatus }
+    { args, text, prefix, isCreator, pushName, modStatus }
 
   ) => {
 
