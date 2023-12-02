@@ -22,7 +22,7 @@ module.exports = {
 
   ) => {
 
-    if (SUPPORTstatus == "false")  return m.reply(`Support is not enabled in this group!\n\nTo use this command, type:\n\n*${prefix}support* to join Support group`);
+    if (modStatus === 'false') return m.reply("only mods can use this command");
 
     if (!text)
 
