@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center"> 
-Konnichiwa Senpai, I am "faaceless" an Opensource WhatsApp bot made by kiddagoat <a href="https://github.com/kiddagoat1">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Konnichiwa Senpai, I am "faaceless" an Opensource WhatsApp bot made by kiddagoat <a href="https://github.com/kiddagoat1">Kiddagoat</a> and his team "Faaceless" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
 <h3 align="center"> Faaceless MD - cant beat what cant be seen
 </h4>
@@ -46,7 +46,7 @@ Konnichiwa Senpai, I am "faaceless" an Opensource WhatsApp bot made by kiddagoat
 ---
  <br>
  
- # 🧩 Deploy Atlas
+ # 🧩 Deploy Faaceless
      
 <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
