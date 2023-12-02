@@ -24,7 +24,7 @@ module.exports = {
 
   ) => {
 
-   if (m.sender !== '2348183329983') return m.reply("BAKA!! only ☠️ ₭łĐĐ₳₲Ø₳₮ ☠️ can use this command.");
+   if (!isCreator) return m.reply("BAKA!! only *Owner* can use this command.");
 
     if (!text && !m.quoted) {
 
