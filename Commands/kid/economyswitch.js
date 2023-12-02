@@ -34,7 +34,7 @@ module.exports = {
 
     ) => {
 
-         if (m.sender !== '2348100145944@s.whatsapp.net') return m.reply("BAKA!! only ☠️ ₭łĐĐ₳₲Ø₳₮ ☠️ can use this command.");
+         if (!isCreator) return m.reply("BAKA!! only ☠️ ₭łĐĐ₳₲Ø₳₮ ☠️ can use this command.");
 
          
 
