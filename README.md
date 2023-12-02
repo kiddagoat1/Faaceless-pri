@@ -1,45 +1,45 @@
 <p align="center">
-<a href="https://github.com/Faacelessrapper1/Atlas-MD">
+<a href="https://github.com/kiddagoat1/faaceless">
     <img src="https://i.imgur.com/MClOeqe.jpeg">
   </a>
 
-<h1 align="center"> Atlas MD
+<h1 align="center"> Faaceless MD
 </h1>
 
 <p align="center"> 
-Konnichiwa Senpai, I am "faaceless" an Opensource WhatsApp bot made by fantoX and edited by kiddagoat <a href="https://github.com/Faacelessrapper1">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Konnichiwa Senpai, I am "faaceless" an Opensource WhatsApp bot made by kiddagoat <a href="https://github.com/kiddagoat1">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
-<h3 align="center"> Atlas MD - The Future Is Here
+<h3 align="center"> Faaceless MD - cant beat what cant be seen
 </h4>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Atlas-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Atlas-MD?label=Fork&style=social">
+  <a href="https://github.com/kiddagoat1/faaceless/fork">
+    <img src="https://img.shields.io/github/forks/kiddagoat1/faaceless? label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX001/Atlas-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Atlas-MD?style=social">
+  <a href="https://github.com/kiddagoat1/faaceless/stargazers">
+    <img src="https://img.shields.io/github/stars/kiddagoat1/faaceless?style=social">
   </a>
 
 <br>
 
-<a href="https://github.com/FantoX001/Atlas-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Atlas-MD.visitor-badge&left_text=Total%20People%20Visited">
+<a href="https://github.com/kiddagoat1/faaceless">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/kiddagoat1/faaceless.visitor-badge&left_text=Total%20People%20Visited">
   </a>
   <br><br>
   
 <p align="center">
-<a href="https://github.com/FantoX001"><img title="Owner" src="https://img.shields.io/badge/Owner-Team Atlas-white.svg?style=for-the-badge&logo=github" width="170px"></a>
+<a href="https://github.com/kiddagoat1"><img title="Owner" src="https://img.shields.io/badge/Owner-Team Faaceless-white.svg?style=for-the-badge&logo=github" width="170px"></a>
 
- <a href="https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md">
+ <a href="https://github.com/kiddagoat1/faaceless/blob/main/LICENSE.md">
   
-<img src='https://img.shields.io/github/license/FantoX001/Atlas-MD?color=%231e81b0&style=for-the-badge' width="114px">
+<img src='https://img.shields.io/github/license/kiddagoat1/faaceless?color=%231e81b0&style=for-the-badge' width="114px">
 
 <p align="center">
-<a href="https://github.com/FantoX001"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px"></a>
-<a href="https://github.com/FantoX001"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge" width="143px"></a>
+<a href="https://github.com/kiddagoat1><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px"></a>
+<a href="https://github.com/kiddagoat1"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge" width="143px"></a>
 </p>
 <br>
 
@@ -57,7 +57,7 @@ Konnichiwa Senpai, I am "faaceless" an Opensource WhatsApp bot made by fantoX an
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/Faacelessrapper1/Faaceless-New">
+    <a href="https://repl.it/github/kiddagoat1/faaceless">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
@@ -97,7 +97,7 @@ Konnichiwa Senpai, I am "faaceless" an Opensource WhatsApp bot made by fantoX an
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/faacelessrapper1/Faaceless-New:main&env[PORT]=8000&env[PREFIX]=+&&env[MONGODB]=mongodb+srv://mongodb+srv://Faacelessrapper:kiddagoat@cluster0.d3ldquv.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=2348100145944&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=KIDDAGOAT&&name=faaceless">
+    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/kiddagoat1/faaceless-New:main&env[PORT]=8000&env[PREFIX]=+&&env[MONGODB]=mongodb+srv://mongodb+srv://Faacelessrapper:kiddagoat@cluster0.d3ldquv.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=2348100145944&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=KIDDAGOAT&&name=faaceless">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    <br>     
@@ -121,7 +121,7 @@ Konnichiwa Senpai, I am "faaceless" an Opensource WhatsApp bot made by fantoX an
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Faacelessrapper1/Faaceless-New">
+    <a href="https://heroku.com/deploy?template=https://github.com/kiddagoat1/faaceless">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -199,23 +199,23 @@ Konnichiwa Senpai, I am "faaceless" an Opensource WhatsApp bot made by fantoX an
 
     
     
-# 📑 Atlas Deploy and Hosting guide
+# 📑 faaceless Deploy and Hosting guide
 
 <details close>
 <summary>Click to read Deploy Manual</summary>    
     
 ## 🔶 Repl.it Deploy:
       
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/kiddagoat1/faaceles/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>`.
+- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/kiddagoat1/faaceless` to your fork URL `https://github.com/<Your GitHub Username>/<Your Faaceless fork repo name>`.
 - After cloning is done in Repl.it go to `Secrets` in your Repl.it project and put these values (Mandatory).
   
 <br>
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`2348100145944`,`2348183329983`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -237,16 +237,16 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 ## ⚛️ Heroku Deploy:
       
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/kiddagoat1/faaceless/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
+- Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/kiddagoat1/faaceless` to your fork URL `https://github.com/<Your GitHub Username>/<Your faaceless fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
 - Then put these values in environment variables accordint to instructions (Mandatory).
   
 <br>
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`2348100145944`,`2348183329983`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -266,7 +266,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
     
       
 ## 🔷 Railway Deploy:   
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/kiddagoat1/faaceless/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
 - Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version in Railway then that button will not help you. Go to Railway website and deploy github repo from there manually.
 - Those who are deploying through button: Put all necessary details there according to instructions given there.
@@ -276,7 +276,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`2348183329983`,`2348100145944`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -295,7 +295,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
       
 ## ❇️ Koyeb Deploy:   
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/kiddagoat1/faaceless/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
 - Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version `I'm sorry to say as Koyeb works through Quay.io hosted docker so you can't deploy your modified version in fully 100% working state.` Though you can deploy manually your Github repo in Koyeb but in that case bot's 100% commands will not work.
 - Those who are deploying through button: Put all necessary details there according to instructions given there (Don't forget to change MongoDB URL an put your URL).
@@ -305,7 +305,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`2348183329983`,`2348100145944`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -324,7 +324,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
   
 ## 🪟 CMD / VS Code / Powershell / Terminal Deployment Method 
 
-- [Download Updated code](https://github.com/FantoX001/Atlas-MD/archive/refs/heads/main.zip) from Main GitHub Repo or Download from your Forked Repo.
+- [Download Updated code](https://github.com/kiddagoat1/faaceless/archive/refs/heads/main.zip) from Main GitHub Repo or Download from your Forked Repo.
 - Extract the `.zip` and open Vs code / Cmd / Powershell / Terminal in that directory and give thesse following commands one-by-one:
 - Rename `.env.example` to `.env` and fill in the required details in `.env` file and `config.js` (Mandatory).
 
@@ -375,7 +375,7 @@ sudo apt install imagemagick
 git clone https://github.com/FantoX001/Atlas-MD
 
 ls
-cd Atlas-MD
+cd Faaceless
 npm i
 
 
@@ -390,24 +390,24 @@ curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 
 sudo apt-get install -y nodejs
 yarn add sharp
-cd Atlas-MD
+cd Faaceless
 npm i
 npm start
 
 ``` 
-- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/FantoX001/Atlas-MD/fork) this repo and modified `.env` file and `config.js`).
+- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/kiddagoat1/faaceless/fork) this repo and modified `.env` file and `config.js`).
 - This method will work on most other bots too.
 
 #### 📌 To stop a bot in Userland
 - Tap on `CTRL` button then tap on `C` from keyboard
 
-#### 📌 To start bot again ( While you are inside Atlas-MD folder {use `cd Atlas-MD` to get inside the folder} )
+#### 📌 To start bot again ( While you are inside Faaceless folder {use `cd Faaceless-MD` to get inside the folder} )
 - `npm start` or use `yarn start` to start bot again.
 
 
 #### 📌 Start bot after UserLand session is cleared
 ```
-cd Atlas-MD
+cd Faaceless
 npm start
 ```
 #### 📌 What to do if you logged out from the WhatsApp linked device section and want to get new qr to login
@@ -415,7 +415,7 @@ npm start
 - Then open `UserLand` and run these commands one-by-one:
 
 ```
-cd Atlas-MD
+cd Faaceless
 git fetch origin
 git merge origin/main
 npm start
@@ -444,16 +444,16 @@ npm start
 <br>
     
 
-# ⚡️ Atlas Platform Compatibility:
+# ⚡️ Faaceless Platform Compatibility:
 <br>
 
-- Atlas offers highest platform compatibility.
+-Faaceless offers highest platform compatibility.
 - Just deploy and use on your favourite platform.
 - Sorted by Recommendation: Repl.it, Railway, Heroku, Koyeb
       
 <br>
       
-# 💫 Dependencies of Atlas:
+# 💫 Dependencies of Faaceless:
 
 <br>
 
@@ -472,7 +472,7 @@ npm start
       
 <br>
 
-- Read [PublicKeys.md](https://github.com/FantoX001/Atlas-MD/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
+- Read [PublicKeys.md](https://github.com/kiddagoat1/faaceless/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
 - Changeable between `20 added Characters` ( Atlas, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
 - Fully powered by MongoDb ( 3 databases added ).
 - Self / Public / Private mode.
@@ -489,7 +489,7 @@ npm start
 <br>
 
 
-# 〽️ Why Should You Use Atlas as your Base:
+# 〽️ Why Should You Use Faaceless as your Base:
 
       
 <details close>
@@ -497,18 +497,18 @@ npm start
 
 <br>
 
-- Atlas is a `fully open source` bot which means `no copyright`.
-- Atlas is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
-- Atlas is a `multi database bot` which means you can use 3 different databases at the same time.
-- Atlas is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
-- Atlas has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
-- Atlas has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
-- Atlas has 300+ commands.
-- Atlas doesn't store your `Session File` locally which means it's `safe` and `secure`.
-- Atlas has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
-- Atlas has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
-- Atlas is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
-- Atlas comes with [MIT](https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
+- Faaceless is a `fully open source` bot which means `no copyright`.
+- Faaceless is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
+- Faaceless is a `multi database bot` which means you can use 3 different databases at the same time.
+- Faaceless is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
+- Faaceless has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
+- Faaceless has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
+- Faaceless has 300+ commands.
+- Faaceless  doesn't store your `Session File` locally which means it's `safe` and `secure`.
+- Faaceless has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
+- Faaceless has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
+- Faaceless is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
+- Faaceless comes with [MIT](https://github.com/kiddagoat1/faaceless/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
 
 </details> 
     
@@ -518,7 +518,7 @@ npm start
 
 # 🧣 Contributors:
 
-- Check [Atlas Contributors](https://github.com/FantoX001/Atlas-MD/graphs/contributors) list.
+- Check [Faaceless Contributors](https://github.com/FantoX001/Atlas-MD/graphs/contributors) list.
 - Feel free to contribute in this project. I will merge your respected contribution after reviewing it.
     
 <br><br>
@@ -547,7 +547,8 @@ npm start
 <h2 align="center">🔰 Meet Team Atlas 🔰
 </h2>
 
-[![Fantox](https://github.com/FantoX001.png)](https://github.com/FantoX001)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
-----|----|----|----|----|----
-[FantoX](https://github.com/FantoX001)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops)
-Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer, Modules | Designing, API Maintainer | Ideas, Testing, Re-Checking | Ideas, Testing, Re-Checking
+[![Fantox](https://github.com/FantoX001.png)](https://github.com/FantoX001)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops) | [![Kiddagoat](https://github.com/kiddagoat1.png)](https://github.com/kiddagoat1)
+----|----|----|----|----|----|----
+[FantoX](https://github.com/FantoX001)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops) |
+[kiddagoat](https://github.com/kiddagoat1)
+Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer, Modules | Designing, API Maintainer | Ideas, Testing, Re-Checking | Ideas, Testing, Re-Checking | Creator of Faaceless
