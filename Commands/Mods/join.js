@@ -22,7 +22,7 @@ module.exports = {
 
   ) => {
 
-    if (modStatus === 'false') return m.reply("only mods can use this command");
+    if (modStatus == 'false') return m.reply("only mods can use this command");
 
     if (!text)
 
