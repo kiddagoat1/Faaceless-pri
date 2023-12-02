@@ -34,7 +34,7 @@ module.exports = {
 
     ) => {
 
-         if (!isCreator) return m.reply("BAKA!! only ☠️ ₭łĐĐ₳₲Ø₳₮ ☠️ can use this command.");
+         if (!isCreator) return m.reply("BAKA!! only *Owner* can use this command.");
 
          
 
