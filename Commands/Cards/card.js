@@ -42,7 +42,8 @@ if (card.tier === '6' || card.tier === 'S' || card.url.endsWith(".gif")) {
 
 						const result = await getBuffer(url);
 					const buffer = await GIFBufferToVideoBuffer(Buffer.from(result, 'utf-8'));
-          await Miku.sendMessage(m.from, { video: buffer , caption: `Card ${index}:\n🔖 Title: ${card.title}\n⭐️ Tier: ${card.tier}`, gifPlayback: true }, { quoted: m });
+          await Miku.sendMessage(m.from, {  video: buffer,
+            gifPlayback: true, caption: `Card ${index}:\n🔖 Title: ${card.title}\n⭐️ Tier: ${card.tier}`, gifPlayback: true }, { quoted: m });
         } else {
           await Miku.sendMessage(m.from, { image: {url: url}, caption: `Card ${index}:\n🔖 Title: ${card.title}\n⭐️ Tier: ${card.tier}`}, { quoted: m })
         }
