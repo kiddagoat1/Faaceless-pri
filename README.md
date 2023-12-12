@@ -57,7 +57,7 @@ Konnichiwa Senpai, I am "faaceless" an Opensource WhatsApp bot made by kiddagoat
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/kiddagoat1/faaceless">
+    <a href="https://repl.it/github/kiddagoat1/faaceless-pri">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
@@ -121,7 +121,7 @@ Konnichiwa Senpai, I am "faaceless" an Opensource WhatsApp bot made by kiddagoat
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/kiddagoat1/faaceless">
+    <a href="https://heroku.com/deploy?template=https://github.com/kiddagoat1/faaceless-pri">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
